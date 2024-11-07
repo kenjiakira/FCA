@@ -1,0 +1,25 @@
+{
+  "name": "botchat",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "chalk": "^4.1.2",
+    "child_process": "^1.0.2",
+    "dotenv": "^16.4.5",
+    "ejs": "^3.1.10",
+    "express": "^4.21.1",
+    "fca-unofficial": "^1.3.10",
+    "fs": "^0.0.1-security",
+    "gradient-string": "^3.0.0",
+    "nodemon": "^3.1.7",
+    "path": "^0.12.7"
+  }
+}

@@ -1,0 +1,11 @@
+@font-face {
+    font-family: GFF_REGULAR;
+    src: url(../fonts/GFF-Latin-Regular.ttf);
+}
+
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: GFF_REGULAR;
+}
