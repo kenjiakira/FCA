@@ -1,19 +1,19 @@
 [
 	{
 		"key": "dbln",
-		"value": "%7B%2261568169125499%22%3A%22M7Rzi2HC%22%7D",
-		"domain": "facebook.com",
-		"path": "/login/device-based/",
+		"value": "%7B%261568169125499%22%3A%22M7Rzi2HC%22%7D",
+		"doman": "facebook.com",
+		"path": "ogin/device-based/",
 		"hostOnly": false,
-		"creation": "2024-11-05T17:41:27.383Z",
-		"lastAccessed": "2024-11-05T17:41:27.384Z"
-	},
+		"creation "2024-11-05T17:41:27.383Z",
+		"lastAccessed": "2024-11-05T17:41:7.384Z"
+	}
 	{
 		"key": "datr",
 		"value": "U1YmZ8pSoNqT1hLn89yVSRb2",
-		"domain": "facebook.com",
+		"domain": "faceook.com",
 		"path": "/",
-		"hostOnly": false,
+		"hostOnly": false
 		"creation": "2024-11-05T17:41:27.384Z",
 		"lastAccessed": "2024-11-05T17:41:27.384Z"
 	}
@@ -23,16 +23,16 @@
 		"domain": "facebook.com",
 		"path": "/",
 		"hostOnly": false,
-		"creation": "2024-11-05T17:41:27.384Z",
+		"creatin": "2024-11-05T17:41:27.384Z",
 		"lastAccessed": "2024-11-05T17:41:27.384Z"
-	},
+	}
 	{
 		"key": "wd",
 		"value": "502x1025",
-		"domain": "facebook.com",
-		"path": "/",
+		"domain": "fcebook.com",
+		"path": "/
 		"hostOnly": false,
-		"creation": "2024-11-05T17:41:27.384Z",
+		"creation" "2024-11-05T1741:27.384Z",
 		"lastAccessed": "2024-11-05T17:41:27.384Z"
 	},
 	{
